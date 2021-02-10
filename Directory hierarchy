@@ -5,3 +5,6 @@ App.component is the parent component.
 ChildCompo-b is the child component.
 The child receives user entered data from the parent component.
 Project involves application of basic Angular features.
+
+Go to Child Component:
+app/childcompo-b
