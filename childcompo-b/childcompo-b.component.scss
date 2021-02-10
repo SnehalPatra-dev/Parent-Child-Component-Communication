@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+}
+.firstdiv{
+    margin: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    padding: 0.4rem;
+    border: 0.8rem solid;
+    border-radius: 5%;
+    border-color: #09015f;
+    background-color: #bbdfc8;
+}
+
+.seconddiv{
+    margin-left: 5.8rem;
+    margin-right:5.8rem;
+    justify-content: center;
+    align-items: center;
+    margin-top:0.7rem;
+    padding-top:0.7rem;
+    border:0.7rem dashed;
+    border-color:#09015f;
+    border-radius: 5%;
+    background-color:#bbdfc8;
+}
+
+.heading1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+    text-align: center;
+
+}
+.heading2{
+    font-family:'Ubuntu',sans-serif;
+    color:#161d6f;
+    text-align: right;
+}
+.heading3{
+    font-family:'Ubuntu',sans-serif;
+    color:#161d6f;
+    font-size:10;
+    text-align: center;
+}
+
+.container{
+    height: 27rem;
+    margin-left: 1.2rem;
+    margin-right: 1.2rem;
+}
+
+#marquee1{
+    font-size: 1.2rem;
+    font-family: 'Ubuntu',sans-serif;
+    color:#161d6f;
+    height:1.5rem;
+    width: 80%;
+    margin-top:0.5rem;
+    margin-bottom: 1rem;
+}
+
+.sendbutton1{
+    margin-top:1rem;
+    margin-bottom:1rem;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+    padding-left:1rem;
+    padding-right:1rem;
+}
+
+.heading4{
+    font-family: 'Roboto',sans-serif;
+    color: #161d6f;
+    font-style: italic;
+}
+
+.paragraph1{
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 1.4rem;
+    color: #161d6f;
+    text-align: center;
+}
+.logInButton1{
+    background-color: rgb(0, 0,0,0.6);
+    color: whitesmoke;
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 1.4rem;
+}
+.displayMessage1{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.paragraph2{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.8rem;
+    font-family:'Rouge Script',cursive;
+    color: #161d6f;
+    max-height: fit-content;
+}
